@@ -1,6 +1,6 @@
 /**
- * mytello.com v0.0.1
- * Saturday, August 22nd, 2015, 8:02:55 PM
+ * Do it right, first fucking time. v0.0.1
+ * Saturday, August 22nd, 2015, 8:13:22 PM
  * 
  * 2015 Andrzej Dubiel | http://dubiel.me/
  */

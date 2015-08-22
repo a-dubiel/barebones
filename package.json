@@ -1,7 +1,7 @@
 {
-  "name": "mytello",
-  "title": "mytello.com",
-  "description": "Cheap calls by mytello",
+  "name": "Barebones",
+  "title": "Do it right, first fucking time.",
+  "description": "Quick development with Grunt, Bourbon and Neat",
   "version": "0.0.1",
   "author": {
     "name": "Andrzej Dubiel",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:pier0n/mytello.git"
+    "url": "git@github.com:pier0n/barebones.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
