@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Catamaran:400,700);/**
+/**
  * Component: Normalize
  * --------------------------------------------------
  */
@@ -880,4 +880,24 @@ body
 .u-text-lowercase
 {
     text-transform: lowercase;
+}
+
+/**
+ * Component: Sample
+ * --------------------------------------------------
+ */
+
+.c-sample
+{
+    position: fixed;
+}
+
+/**
+ * Object: Sample
+ * --------------------------------------------------
+ */
+
+.o-sample
+{
+    position: fixed;
 }
