@@ -1,0 +1,18 @@
+exclude:
+ - 'source/styles/core/bourbon/*'
+ - 'source/styles/core/neat/*'
+ - 'source/styles/core/base/*'
+ - 'source/styles/core/normalize/normalize.scss'
+
+
+linters:
+  StringQuotes:
+    style: double_quotes
+  Comment:
+    enabled: false
+  ColorKeyword:
+    enabled: false
+  DeclarationOrder:
+    enabled: false
+  SelectorFormat:
+    convention: hyphenated_BEM
